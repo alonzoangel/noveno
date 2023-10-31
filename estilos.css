@@ -7,6 +7,7 @@ body {
   background-color:skyblue;
   font-family: Arial, Helvetica, sans-erif;
   font-size:100%;
-  text-alingn: justify
-  
+  text-alingn: justify;
+  margin-left:  100px;
+margin-right: 500px;  
 }
