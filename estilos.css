@@ -11,3 +11,8 @@ body {
   margin-left:  100px;
 margin-right: 500px;  
 }
+
+aside{
+  background-color:yellow;
+  color:red;
+}
