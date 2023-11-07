@@ -9,11 +9,10 @@ body {
   font-size:100%;
   text-alingn: justify;
   margin-left:  100px;
-margin-right: 500px;  
 }
 
 aside{
   background-color:yellow;
-  color:red;
-  float:right;
+  color: red;
+  float: right;
 }
